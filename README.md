@@ -1,0 +1,2 @@
+# Moneyball for Football: A Data-Driven Approach to Player Recruitment
+## This project aims to showcase effective player recruitment strategies using data science techniques for football clubs. The data is collected by scraping FBRef, focusing on the top 5 football leagues. The project aims to provide insights and recommendations for prominent clubs and high-profile players. In the future, data from other leagues may be incorporated to expand the scope of analysis and provide a more comprehensive approach to recruitment.
